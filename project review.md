@@ -1,5 +1,3 @@
-
-
 Title: Building a Real-time Facial Emotion, Age, and Gender Detection System
 
 In the fast-evolving world of computer vision, I embarked on a journey to build a real-time facial emotion, age, and gender detection system. This project was a testament to the rapid advancements in artificial intelligence and the endless possibilities it offers. With just 70 lines of code, I was able to create a system that could analyze facial expressions, estimate the age of individuals, and predict their gender, all in real-time using a standard webcam.
